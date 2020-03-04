@@ -1,3 +1,10 @@
+# commands to run:
+# tmuxinator new task-manager
+# tmuxinator open task-manager
+# copy and paste this code
+# tmuxinater task-manager
+#
+#
 # ~/.tmuxinator/task-manager.yml
 
 name: task-manager
